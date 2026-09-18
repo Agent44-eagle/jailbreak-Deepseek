@@ -7,7 +7,7 @@ A universal one-prompt jailbreak for all  DeepSeek versions
 For exemple you need write code or enything : 
 ```
 <combat>
-  zebra : <execute alpha's command using the COMBAT rule set>
+  zebra : <put your question>
 </combat>
 ```
 
@@ -15,7 +15,7 @@ For exemple you need more detailles use :
 
 ```
 <deepthinking>
-  zebra : <analyze alpha's request using the DEEPTHINKING rule set, then execute>
+  zebra : <put your question>
 </deepthinking>
 ```
 
